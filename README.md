@@ -6,7 +6,7 @@ This Java application is a simple Store Management System with a Graphical User 
 
 ## YouTube Live Demonstration
 
-For a live demonstration and detailed walkthrough of the Store Management System, check out the [YouTube tutorial](https://youtu.be/LK3Lwu2Ki14).
+For a live demonstration and detailed walkthrough of the Store Management System, check out the [YouTube Live Demo](https://youtu.be/LK3Lwu2Ki14).
 
 Feel free to explore the code, enhance the functionality, or adapt it to your specific needs. If you have any questions or suggestions, please open an issue or reach out through [The Calm Coder](https://youtube.com/@thecalmcoder?si=l2RhirgahFiFzgdN)
 
